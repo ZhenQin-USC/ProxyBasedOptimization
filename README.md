@@ -18,9 +18,12 @@ PyDOE2 1.3.0
 
 scipy 1.6.2
 
+MATLAB
+
+TETRAD
+
 ## Data
 Due to the data confidentiality, we are not allowed to share the field examples or simulation model that were used in our paper. 
-
 
 
 ## Acknowledgments
